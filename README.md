@@ -22,7 +22,7 @@ ___________________________________________________________________________
   
   •	Developing Scalable Services and Managing their Transactions with CockroachDB and testing these using Kubernetes [code](https://github.com/kevin-rn/Web-Scale-Data-Management)
   
-  •	Modular Intrusion Prevention System, similar to fail2ban, which monitors and stores (SQLAlchemy) failed authentication logs from applications such as Joomla and Wordpress and temporarily blocks traffic from IP-addresses that exceed a configurable number of attempts. [code](
+  •	Modular Intrusion Prevention System, similar to fail2ban, which monitors and stores (SQLAlchemy) failed authentication logs from applications such as Joomla and Wordpress and temporarily blocks traffic from IP-addresses that exceed a configurable number of attempts. [code](https://github.com/mkhattat/network_security)
   
   •	Mutual Inconsistency Detection In Distributed Systems using akka to ensure copies of documents between ‘actors’ remain concistent. [code](https://github.com/kevin-rn/Mutual-Inconsistency-Detection-In-Distributed-Systems)
   
