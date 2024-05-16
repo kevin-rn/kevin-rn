@@ -14,8 +14,9 @@ Incorporating cryptographic functionalities of TPM 2.0 to provide security in th
 
 ___________________________________________________________________________
 
-**Noteworthy projects:**
-
+<details>
+  <summary>Noteworthy projects:</summary>  <br />
+  
   •	Software project for Netcompany building a custom information retrieval system using Spring Boot, Elasticsearch and Vue.js. Due to NDA I'm not allowed to share this.
   
   •	Evaluating Java-Python code translation by fine-tuning two Language models (CodeBERT and PLBART) on a scraped and generated dataset (Rosetta Code, Sample Programs, CodingBat, A problem solved in 22 programming languages and LeetCode) and evaluate these fine-tuned models on two metrics, namely Bleu-4 and xMatch. The evaluation and fine-tuning of the models has been adapted from CodeXGLUE and the preprocessing of the data is done by AVATAR. [code](https://github.com/ML4SE2022/group3)
@@ -33,4 +34,4 @@ ___________________________________________________________________________
   •	Java Application tracking green activites of a user with features like having a ranking system between users. [code](https://github.com/kevin-rn/GoGreen)
 
   •	Develop a full raytracer that generates static images from a virtual scene containing lights, objects and a camera. [code](https://github.com/kevin-rn/Computer-Graphics/tree/master/Raytracer)
-
+</details>
