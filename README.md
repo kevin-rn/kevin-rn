@@ -4,10 +4,10 @@ I am Kevin, a MSc Computer Science graduate from TU Delft. With a growth-oriente
 new knowledge and remain at the forefront of technological advancements.
 
 ___________________________________________________________________________
-**Master Thesis:** *Efficient Fact-checking through Supporting Fact Extraction from Large Data Collections* ([code](https://github.com/kevin-rn/Efficient-Fact-checking)|[paper](https://repository.tudelft.nl/islandora/object/uuid%3A990b1567-7c6e-43a1-9832-3d5a9a53c41a))    
+**Master Thesis:** *Efficient Fact-checking through Supporting Fact Extraction from Large Data Collections* ([code](https://github.com/kevin-rn/Efficient-Fact-checking)|[report](https://repository.tudelft.nl/islandora/object/uuid%3A990b1567-7c6e-43a1-9832-3d5a9a53c41a))    
 Make use of various methods for identifying and indexing supporting facts and enhancing the retrieval phase of the fact-checking pipeline.
 
-**Bachelor Thesis:** *Creating a TPM based smart contract for the Medical Supply Chain in Hyperledger Fabric* ([code](https://github.com/kevin-rn/medical-supply)|[paper](https://repository.tudelft.nl/islandora/object/uuid%3A5def242c-0440-4601-bb0e-34e62343d81b))  
+**Bachelor Thesis:** *Creating a TPM based smart contract for the Medical Supply Chain in Hyperledger Fabric* ([code](https://github.com/kevin-rn/medical-supply)|[report](https://repository.tudelft.nl/islandora/object/uuid%3A5def242c-0440-4601-bb0e-34e62343d81b))  
 Incorporating cryptographic functionalities of TPM 2.0 to provide security in the use of smart contracts used in a blockchain applications (open-source Hyperledger Fabric was used).
 
 
