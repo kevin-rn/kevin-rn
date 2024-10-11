@@ -17,8 +17,6 @@ ___________________________________________________________________________
 <details>
   <summary>Noteworthy projects:</summary>  <br />
   
-  •	Software project for Netcompany building a custom information retrieval system using Spring Boot, Elasticsearch and Vue.js. Due to NDA I'm not allowed to share this.
-  
   •	Evaluating Java-Python code translation by fine-tuning two Language models (CodeBERT and PLBART) on a scraped and generated dataset (Rosetta Code, Sample Programs, CodingBat, A problem solved in 22 programming languages and LeetCode) and evaluate these fine-tuned models on two metrics, namely Bleu-4 and xMatch. The evaluation and fine-tuning of the models has been adapted from CodeXGLUE and the preprocessing of the data is done by AVATAR. [code](https://github.com/ML4SE2022/group3)
   
   •	Developing Scalable Services and Managing their Transactions with CockroachDB and testing these using Kubernetes [code](https://github.com/kevin-rn/Web-Scale-Data-Management)
