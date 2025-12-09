@@ -1,13 +1,11 @@
-### Hello there 👋
+### Hello there
 
-I am Kevin, an MSc Computer Science graduate from TU Delft with a strong foundation in full-stack development and a specialization in Data.
-With a growth-oriented mindset and a passion for all things big data science related, I am constantly driven to seek out
-new knowledge and remain at the forefront of technological advancements. Currently doing self-study on Azure Cloud.
+Full-stack Software Developer specialized in the fields of Big Data and AI, driven by a passion for continuous learning and staying at the forefront of technological innovation. I have hands-on experience across a multitude of programming languages, from low-level C++ to functional languages like Scala and Clojure, with advanced proficiency in Python and Java. My experience also includes building full-stack applications, data pipelines, and AI solutions using a wide range of modern frameworks, libraries, and developer tools.
 
 ___________________________________________________________________________
 **Master Thesis:** *Efficient Fact-checking through Supporting Fact Extraction from Large Data Collections* ([code](https://github.com/kevin-rn/Efficient-Fact-checking)|[report](https://repository.tudelft.nl/islandora/object/uuid%3A990b1567-7c6e-43a1-9832-3d5a9a53c41a))    
 Make use of various methods for identifying and indexing supporting facts and enhancing the retrieval phase of the fact-checking pipeline.  
-<h6><i> In the works of being published under the title "FlashCheck: Exploration of Efficient Evidence Retrieval for Fast Fact-Checking" in the ECIR 2025 proceedings by Springer Nature</i></h6>
+This work has been reworked and published under the title "*FlashCheck: Exploration of Efficient Evidence Retrieval for Fast Fact-Checking*" in the ECIR 2025 proceedings by Springer Nature and even won a [best paper award](https://ecir2025.eu/best-papers-award/) under it's category of IR4Good
 
 **Bachelor Thesis:** *Creating a TPM based smart contract for the Medical Supply Chain in Hyperledger Fabric* ([code](https://github.com/kevin-rn/medical-supply)|[report](https://repository.tudelft.nl/islandora/object/uuid%3A5def242c-0440-4601-bb0e-34e62343d81b))  
 Incorporating cryptographic functionalities of TPM 2.0 to provide security in the use of smart contracts used in a blockchain applications (open-source Hyperledger Fabric was used).
@@ -17,7 +15,7 @@ Incorporating cryptographic functionalities of TPM 2.0 to provide security in th
 ___________________________________________________________________________
 
 <details>
-  <summary>Noteworthy projects:</summary>  <br />
+  <summary>Noteworthy University projects:</summary>  <br />
   
   •	Evaluating Java-Python code translation by fine-tuning two Language models (CodeBERT and PLBART) on a scraped and generated dataset (Rosetta Code, Sample Programs, CodingBat, A problem solved in 22 programming languages and LeetCode) and evaluate these fine-tuned models on two metrics, namely Bleu-4 and xMatch. The evaluation and fine-tuning of the models has been adapted from CodeXGLUE and the preprocessing of the data is done by AVATAR. [code](https://github.com/ML4SE2022/group3)
   
@@ -132,6 +130,8 @@ ___________________________________________________________________________
 <h4>Operating Systems</h4>
 <p><a target="_blank" href="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" style="display: inline-block;"><img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" alt="windows" width="42" height="42" /></a>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/archlinux/archlinux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/archlinux/archlinux-original.svg" alt="linux" width="42" height="42" /></a>
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/apple/apple-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/apple/apple-original.svg" alt="linux" width="42" height="42" /></a>
 </p>
 
 
